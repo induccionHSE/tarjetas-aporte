@@ -42,5 +42,5 @@ Sistema digital para el reporte y seguimiento de hallazgos, condiciones insegura
 ## Autor
  
 **Holman Moreno** — HSEQ Coordinator · Petroleum Engineer
-📧 hmoreno@pbi.com.co
+📧 holman3001@hotmail.com
 🔗 [github.com/induccionhse](https://github.com/induccionhse)
